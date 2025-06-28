@@ -1,5 +1,3 @@
-# HotpotFinal
-Backend Spring Application
 # Hotpot
 Spring Backend Project 
 
