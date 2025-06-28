@@ -2,7 +2,8 @@
 Spring Backend Project 
 
 Presentation and Output Document link : https://drive.google.com/drive/folders/1eaEwXzZmfYZP3aEgQLXmJq1oOBZNv5wI?usp=sharing
-Vedio Explanation Link: 
+
+Vedio Explanation Link:https://drive.google.com/drive/folders/1isEprzFbSJFV8U-H0SXI6yBAcIt_XaHv?usp=sharing 
 
 
 HotBite V2 is a comprehensive multi-role food ordering platform built using Spring Boot and MySQL, designed to streamline food ordering and management for Users, Restaurants, and Admins.  
